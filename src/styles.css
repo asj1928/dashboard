@@ -1,0 +1,14 @@
+
+
+.sidebar .nav-link {
+  font-weight: 500;
+  color: #333;
+}
+
+.sidebar .nav-link.active {
+  color: #007bff;
+}
+
+
+html, body { height: 95%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
